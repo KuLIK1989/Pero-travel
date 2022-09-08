@@ -1,0 +1,12 @@
+.header__button {
+   margin-left: 40px;
+   min-width: 230px;
+   height: 50px;
+   left: 160px;
+   top: 491px;
+   background: linear-gradient(92.71deg, #0499DD 0%, #17C1BC 100%);
+   border-radius: 60px;
+   color: white;
+   display: flex;
+   margin: 60px 0 0 160px;
+}

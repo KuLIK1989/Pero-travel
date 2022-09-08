@@ -2,5 +2,6 @@
    max-width: 100%;
    top: 27px;
    left: 160px;
-   margin: 27px 0 0 160px;
+   padding: 27px 0 0 160px;
+   display: flex;
 }
