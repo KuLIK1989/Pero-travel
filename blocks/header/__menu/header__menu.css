@@ -1,0 +1,9 @@
+.header__menu{
+   max-width: 303px;
+   list-style-type: none;
+   display:flex;
+   top:46px;
+   right:160px;
+   gap:20px;
+   position: absolute;
+}
