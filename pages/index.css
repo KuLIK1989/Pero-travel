@@ -7,3 +7,6 @@
 @import url(../blocks/header/__rectangle/header__rectangle.css);
 @import url(../blocks/header/__button/header__button.css);
 @import url(../blocks/header/__social/header__social.css);
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/_opened/popup_opened.css);
+@import url(../blocks/popup/__container/popup__container.css);
